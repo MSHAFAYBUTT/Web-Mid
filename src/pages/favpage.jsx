@@ -1,11 +1,11 @@
 import React from 'react'
 
-function favpage() {
+function Favpage() {
   return (
     <div>
-      
+
     </div>
   )
 }
 
-export default favpage
+export default Favpage
